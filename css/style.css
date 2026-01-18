@@ -2686,8 +2686,8 @@ a {
 }
 @media (max-width: 400px) {
   .lp_schedule-arrow-second {
-    width: 70px;
-    top: -5px;
+    width: 90px;
+    top: 0px;
     left: 140px;
     -webkit-transform: scale(-1, 1) rotate(0deg);
             transform: scale(-1, 1) rotate(0deg);
@@ -2766,7 +2766,7 @@ a {
 }
 @media (max-width: 400px) {
   .lp_schedule-third-img {
-    margin-top: -60px;
+    margin-top: -50px;
     width: 180px;
     height: 180px;
   }
@@ -2813,7 +2813,7 @@ a {
 }
 @media (max-width: 400px) {
   .lp_schedule-text-third {
-    left: 125px;
+    left: 130px;
   }
 }
 

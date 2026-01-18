@@ -2363,8 +2363,8 @@ a {
     }
 
     @include mq(sp-L) {
-        width: 70px;
-        top: -5px;
+        width: 90px;
+        top: 0px;
         left: 140px;
         transform: scale(-1, 1) rotate(0deg);
     }
@@ -2434,7 +2434,7 @@ a {
     }
 
     @include mq(sp-L) {
-        margin-top: -60px;
+        margin-top: -50px;
         width: 180px;
         height: 180px;
     }
@@ -2476,7 +2476,7 @@ a {
     }
     
     @include mq(sp-L) {
-        left: 125px;
+        left: 130px;
     }
 }
 
